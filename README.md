@@ -1,10 +1,6 @@
 Addressbook Tutorial
 ====================
 
-Test read me
-
-edited read me file
-
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
 a fast read for learning how to get started - not an example on how application should be
 designed. Please note this example uses and requires Java 8 to work.
@@ -69,4 +65,4 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 - Select the server you want to run on, e.g. Apache Tomcat 8 and click ok
 - *Do not use the suggested J2EE Preview server* as it is outdated, deprecated and does not support Servlet 3, which is required for this application
 
-*** End of documentation ***
+*** End of documentation
